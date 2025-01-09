@@ -6,7 +6,7 @@ class NguyenScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Chay bo di cmm'),
+        title: Text('Di ngu thoi !'),
       ),
       body: Center(
         child: Text('ngu di be oi'),
